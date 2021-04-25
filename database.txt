@@ -1,0 +1,11 @@
+mysql
+
+create database users;
+
+use users;
+
+exit
+
+service mysqld status
+service mysqld start
+service mysqld stop
