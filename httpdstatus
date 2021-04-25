@@ -1,0 +1,3 @@
+service httpd status to know the status
+service httpd stop to stop
+service httpd start to start
