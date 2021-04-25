@@ -1,0 +1,37 @@
+Email Setings
+
+SMTP Host: tls://smtp.office.com:587
+SMTP Host: smtp.office365.com
+SMTP Port: 587
+SSL Protocol: OFF
+TLS Protocol: ON
+
+
+email goes from queue to log
+
+
+gmail
+smtp.gmail.com
+Requires SSL: Yes
+Requires TLS: Yes (if available)
+Requires Authentication: Yes
+Port for TLS/STARTTLS: 587
+
+Yahoo
+SMTP HOST: smtp.mail.yahoo.com
+SMTP PORT: 465
+USE SSL: On
+SMTP Auth: Login
+
+
+tls://smtp.office365.com:587
+tls://smtp.gmail.com:587
+ssl://smtp.mail.yahho.com:465
+
+
+
+
+
+
+
+
